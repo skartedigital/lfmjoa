@@ -71,4 +71,18 @@ button {
   width: 160px;
 }
 
+#instructions {
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: rgba(0,0,0,0.6);
+  padding: 10px 12px;
+  border-radius: 8px;
+  margin-top: 10px;
+  display: none;
+  text-align: center;
+  max-width: 90%;
+}
+
 /* IN*
+
